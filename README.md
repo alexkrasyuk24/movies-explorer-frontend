@@ -28,5 +28,7 @@
 
 ### Сcылка на репозиторий
 
+https://alexkrasyuk24.github.io/movies-explorer-frontend/
+
 
 
