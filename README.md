@@ -22,6 +22,8 @@
 
 ### Ccылка на пулл реквест
 
+https://github.com/alexkrasyuk24/movies-explorer-frontend/pull/1
+
 ### Название макета в фигма
 
 - dark-3
